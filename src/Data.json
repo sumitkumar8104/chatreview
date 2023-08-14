@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "img": "images/user.svg",
+    "date": "11:30 AM",
+    "task": "New task assigned to you",
+    "userimg": "images/Photo.svg",
+    "username": "Sheila O'Riley",
+    "class": "active",
+    "imagebg": "icon1 icon"
+  },
+  {
+    "id": 2,
+    "img": "images/person.svg",
+    "date": "11:30 AM",
+    "task": "New feedback received for Task Name",
+    "userimg": "images/Photo.svg",
+    "username": "Sheila O'Riley",
+    "class": "noactive",
+    "imagebg": "icon2 icon"
+  },
+  {
+    "id": 3,
+    "img": "images/check.svg",
+    "date": "11:30 AM",
+    "task": "Task marked completed by you",
+    "userimg": "images/Photo.svg",
+    "username": "Sheila O'Riley",
+    "class": "noactive",
+    "imagebg": "icon3 icon"
+  },
+  {
+    "id": 4,
+    "img": "images/browser.svg",
+    "date": "11:30 AM",
+    "task": "Task Name updated for journey Journey Name",
+    "userimg": "images/Photo.svg",
+    "username": "Sheila O'Riley",
+    "class": "noactive",
+    "imagebg": "icon4 icon"
+  },
+  {
+    "id": 5,
+    "img": "images/follow.svg",
+    "date": "11:30 AM",
+    "task": "Follow up on feedback for Task Name completed on Date XX/YY/ZZZZ",
+    "userimg": "images/Photo.svg",
+    "username": "Sheila O'Riley",
+    "class": "noactive",
+    "imagebg": "icon5 icon"
+  }
+
+]
+
+

@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    background-color: #e5e5e5;
+    height: 120vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main{
+    width: 70%;
+    height: 90vh;
+    border-radius: 20px;
+    box-shadow: gray;
+    position: relative;
+    overflow-y: scroll;
+    background-color: #fff;
+}
+
+.tophead{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.topheadleft h4{
+    letter-spacing: 2px;
+    text-align: right;
+}
+.topheadleft p{
+    text-align: right;
+    color: #afafb2;
+}
+
+.topheadright p{
+    background: #3FB883;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+
+
+.task{
+    width: 90%;
+    height: auto;
+    margin-top: 4px;
+    margin-left: 10%;
+}
+
+
+.taskleft{
+    width: 10%;
+    height: auto; 
+    float: left;
+}
+
+.taskleft p{
+    padding-top: 40px;
+    color: #afafb2;
+    font-size: 14px;
+    padding-bottom: 12px;
+}
+
+.taskright{
+    width: 90%;
+    height: auto; 
+    border-left: 1px solid #c7c8cb;
+    border-bottom: 1px solid #c7c8cb;
+    float: left;
+    padding-bottom: 20px;
+}
+
+.active{
+    color: #3FB883;
+}
+.noactive{
+    color: #000;
+}
+
+.taskright{
+    padding-top: 35px;
+    position: relative;
+}
+
+.taskright span.active,.taskright span.noactive{
+    padding-left: 20px;
+    margin-top: 1000px !important;
+}
+
+.taskright .icon{
+    border-radius: 50%;
+    padding: 5px 5px 0px 5px;
+    position: absolute;
+    margin-left: -14px;
+}
+
+.icon1{
+    background-color: red;
+}
+.icon2{
+    background: #DC395F;
+}
+.icon3{
+    background: #3FB883;
+}
+.icon4{
+    background: #FB8789;
+}
+.icon5{
+    background: #F2BB27;
+}
+.icon6{
+    background-color: #ffff;
+    border: 1px solid #3FB883;
+    padding: 2px 5px 4px 5px !important;
+}
+.icon7{
+    background: #A259FF;
+}
+.icon8{
+    background: #E94235;
+}
+.icon9{
+    background: #F2DF37;
+}
+.taskright .icon img{
+    width: 17px;
+    height: 17px;
+}
+
+.profile{
+    margin-left: 18px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.profile span{
+    font-size: 13px;
+    color: #afafb2;
+    font-weight: 500;
+    padding-left: 5px;
+}
+
+
+.topheadsecond{
+    margin-left: 10%;
+    margin-top: 50%;
+}
+.topheadleftsecond h4{
+    letter-spacing: 2px;
+}
+.topheadleftsecond p{
+    color: #afafb2;
+}
+.topheadleftsecond{
+    position: absolute;
+}
+
+.topheadrightsecond p{
+    background: #aeafb2;
+    color: #fff;
+    padding: 10px;
+    position: absolute;
+    width: 40px;
+    z-index: 999;
+    border-radius: 5px;
+    margin-left: 60px;
+}
+
+.taskleftsecond{
+    margin-top: 45px;
+}
+
+
+.taskrightsecond{
+    width: 90%;
+    height: auto; 
+    border-left: 1px solid #c7c8cb;
+    padding-top: 100px;
+    float: left;
+    padding-bottom: 20px;
+}
+
+.taskrightsecond{
+    padding-top: 130px;
+    position: relative;
+    margin-top: -50px;
+}
+
+.taskrightsecond span.active,.taskrightsecond span.noactive{
+    padding-left: 20px;
+}
+
+.taskrightsecond .icon{
+    border-radius: 50%;
+    padding: 5px 5px 0px 5px;
+    position: absolute;
+    margin-left: -14px;
+}

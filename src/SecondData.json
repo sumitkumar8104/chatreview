@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "img": "images/meet.svg",
+      "date": "11:30 AM",
+      "task": "Meeting with Bobby Charlie",
+      "userimg": "images/Photo.svg",
+      "username": "Sheila O'Riley",
+      "class": "active",
+      "imagebg": "icon6 icon"
+    },
+    {
+      "id": 2,
+      "img": "images/chat.svg",
+      "date": "11:30 AM",
+      "task": "Chat about Design Mentorship",
+      "userimg": "images/Photo.svg",
+      "username": "Sheila O'Riley",
+      "class": "noactive",
+      "imagebg": "icon7 icon"
+    },
+    {
+      "id": 3,
+      "img": "images/important.svg",
+      "date": "11:30 AM",
+      "task": "Critical delay observed in time line adherence",
+      "userimg": "images/Photo.svg",
+      "username": "Sheila O'Riley",
+      "class": "noactive",
+      "imagebg": "icon8 icon"
+    },
+    {
+      "id": 4,
+      "img": "images/clock.svg",
+      "date": "11:30 AM",
+      "task": "Finish project documentation for review (1-1 checkin)",
+      "userimg": "images/Photo.svg",
+      "username": "Sheila O'Riley",
+      "class": "noactive",
+      "imagebg": "icon9 icon"
+    }
+  
+  ]
+  
+  
+  
